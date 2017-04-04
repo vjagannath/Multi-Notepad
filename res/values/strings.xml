@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="infoMenu">infoMenu</string>
+    <string name="addNoteMenu">addNoteMenu</string>
+    <string name="aboutAppName">Multi-Notes</string>
+    <string name="copyrightName">© 2017, Vinay Jagannath</string>
+    <string name="version">Version 1.0</string>
+    <string name="saveMenu">saveMenu</string>
+    <string name="fileName">NoteList.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="noteNameConst">NoteName</string>
+    <string name="noteTextConst">NoteText</string>
+    <string name="noteIdentifierConst">Note</string>
+    <string name="notePositionConst">NotePosition</string>
+    <string name="noteUpdateTimeConst">NoteUpdateTime</string>
+    <string name="newNoteIdentifierConst">NewNote</string>
+    <string name="oldNoteIdentifierConst">OldNote</string>
+    <string name="dialogOptionYes">YES</string>
+    <string name="dialogOptionNo">NO</string>
+    <string name="deleteNoteDialogText">Delete Note</string>
+    <string name="noteNotSavedText">Your note is not saved!</string>
+    <string name="noteSaveText">Save note</string>
+    <string name="untitledNoteText">Un-titled note was not saved</string>
+</resources>
